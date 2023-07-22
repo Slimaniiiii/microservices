@@ -1,10 +1,8 @@
 Microservices With Eureka Client, Server and Spring Cloud Gateway
-[Houssem Slimani, Mohamed Aziz Saadaoui, Nidhal Mezni]
+Houssem Slimani | Mohamed Aziz Saadaoui | Nidhal Mezni
 
 This project has three microservices which are registered with Eureka Server. Spring Cloud Gateway is used to communicate to each of the service.
-Quick Start
 
-Note: Run as Springbootapp using Spring Tool Suite.
 
 Run discovery server. (PORT - 8761)
 
